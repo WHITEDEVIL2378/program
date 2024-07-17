@@ -1,4 +1,4 @@
-import Scanner;
+
 class LeadersOfArray
 {
 	public static void main(String args[])
